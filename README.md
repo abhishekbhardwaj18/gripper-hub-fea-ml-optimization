@@ -62,7 +62,7 @@ The project showed that moderate cutout extension without through cuts produced 
 
 ## Files
 - `gripper_dataset_final.csv` : simulation dataset
-- `gripper_analysis.ipynb` : Python analysis and ML workflow
+- `gripper_analysis_complete.ipynb` : Python analysis and ML workflow
 - `images/` : CAD views, simulation screenshots, and graphs
 
 ## Skills Demonstrated
