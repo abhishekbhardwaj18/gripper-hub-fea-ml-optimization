@@ -61,8 +61,8 @@ To reduce hub mass while maintaining low stress, low displacement, and a high sa
 The project showed that moderate cutout extension without through cuts produced the best balance between light weight and structural integrity.
 
 ## Files
-- `gripper_dataset.csv` : simulation dataset
-- `gripper_analysis.ipynb` or `gripper_analysis.py` : Python analysis and ML workflow
+- `gripper_dataset_final.csv` : simulation dataset
+- `gripper_analysis.ipynb` : Python analysis and ML workflow
 - `images/` : CAD views, simulation screenshots, and graphs
 
 ## Skills Demonstrated
